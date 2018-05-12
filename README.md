@@ -1,3 +1,5 @@
+### :warning: This repository is deprecated! Go to [Azure/kubeflow-labs](https://github.com/Azure/kubeflow-labs) instead :warning:
+
 # Train TensorFlow Models at Scale with Kubernetes on Azure
 
 <!-- ## [Learning Objectives](./learningObjectives.md)
